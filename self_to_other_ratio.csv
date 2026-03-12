@@ -1,0 +1,21 @@
+﻿Film,Gender,Self-to-Other Ratio,wording
+F1,Women,0.73,less
+HAMNET,Women,0.92,slightly less
+SINNERS,Women,0.94,slightly less
+TRAIN DREAMS,Women,0.95,slightly less
+ONE BATTLE AFTER ANOTHER,Women,0.95,slightly less
+FRANKENSTEIN,Women,1.14,slightly more
+BUGONIA,Women,1.27,more
+MARTY SUPREME,Women,1.28,more
+SENTIMENTAL VALUE,Women,1.49,more
+THE SECRET AGENT,Women,1.5,more
+ONE BATTLE AFTER ANOTHER,Men,0.84,less
+SENTIMENTAL VALUE,Men,0.86,less
+BUGONIA,Men,0.92,slightly less
+F1,Men,1.01,slightly more
+SINNERS,Men,1.01,slightly more
+HAMNET,Men,1.14,more
+MARTY SUPREME,Men,1.22,more
+TRAIN DREAMS,Men,1.22,more
+THE SECRET AGENT,Men,1.3,more
+FRANKENSTEIN,Men,1.4,more
