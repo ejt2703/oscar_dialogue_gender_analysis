@@ -92,7 +92,7 @@ class TranscriptCleaner:
     def run(self, output_file):
         """Run the complete analysis"""
         print("\n" + "="*60)
-        print("🎬 MOVIE DIALOGUE ANALYZER")
+        print("🎬 TRANSCRIPT CLEANER")
         print("="*60)
         
         dialogue_lines = self.extract_dialogue_lines()
