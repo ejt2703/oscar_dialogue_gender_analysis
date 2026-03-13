@@ -4,7 +4,7 @@ An analysis of dialogue across genders in the Best Picture nominees from the 98t
 
 In performing this dialogue analysis, I watched and transcribed every Best Picture nomination from the 98th Academy Awards (this year) and the 97th Academy Awards (last year). Each film took 2.5-6 hours to transcribe.
 
-I pulled film transcripts from the independent film magazine Scraps from the Loft and OpenSubtitles. On the Scraps from the Loft website, each transcript is messy, with stage directions and the occasional music note symbol included throughout. I needed to efficiently remove these from the text and put them in a spreadsheet, so I could then manually spotcheck and correct each transcript.
+I pulled film transcripts from the independent film magazine Scraps from the Loft and OpenSubtitles. On the Scraps from the Loft website, each transcript is messy, with stage directions and the occasional music note symbol included throughout. I needed to efficiently remove these from the text and put the remaining transcript in a spreadsheet, so I could then manually spotcheck and correct each transcript.
 
  I downloaded each transcript as a .txt file. With assistance from Claude AI, I created a Python script called transcript\_cleaner.py that enabled me to efficiently remove these stage directions and symbols and place the remaining text into organized .CSV files. Then, I watched each film and spotchecked the transcripts as Google Spreadsheets, making corrections where needed. I also manually added the speakers, their gender and the correct number of words for each line using formulas and manual inputs.
 
