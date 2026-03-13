@@ -15,7 +15,7 @@ I performed my data analysis in Python and Google Spreadsheets. You can find my 
 CORRECTION, 4:03 P.M., MARCH 13, 2026: This dataset contains two small miscalculations that have been manually corrected in the published story. The dataset shows a slight undercount of words in last year's 'Wicked' and 'A Complete Unknown' due to a minor formula error in Google Spreadsheets. This does not change the overall findings of this story.
 
 The following are corrected numbers (not displayed in the dataset), based within the decision-making parameters of this data collection:
-* In 'A Complete Unknown,' women speak 2,344 words and men speak 12,738 words (84%, not 85%). Mixed groups speak 118 words (0.7%, not 0.6%).
+* In 'A Complete Unknown,' women speak 2,344 words and men speak 12,738 words (84%, not 85%). Mixed groups speak 118 words (0.7%, not 0.6%). Bob speaks 6,171 words, or 41%.
 * In 'Wicked,' Elphaba speaks 3,204 words, not 2,806 words. Therefore, she speaks 27% of the words in 'Wicked,' not 25%. Glinda speaks 3,168 words, not 2,994 words.
 
 ## Decision-Making Memo
