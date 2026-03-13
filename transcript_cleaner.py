@@ -2,7 +2,7 @@ import re
 import csv
 import os
 
-class MovieDialogueAnalyzer:
+class TranscriptCleaner:
     def __init__(self, transcript_file):
         self.transcript_file = transcript_file
         self.dialogue_entries = []
@@ -107,7 +107,7 @@ class MovieDialogueAnalyzer:
 
 # Main execution
 if __name__ == "__main__":
-    print("\n🎬 MOVIE DIALOGUE ANALYZER")
+    print("\n🎬 TRANSCRIPT CLEANER")
     print("="*60)
     
     # Get file paths from user
@@ -120,5 +120,5 @@ if __name__ == "__main__":
         exit(1)
     
     # Run analyzer
-    analyzer = MovieDialogueAnalyzer(transcript_file)
+    analyzer = TranscriptCleaner(transcript_file)
     analyzer.run(output_file)
